@@ -3,11 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 안녕하세요 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"
-        > 안녕하세요 저는 인디게임 개발 지망생으로 C++과 블루프린트를 활용하여</li>프롭헌트 장르의 FPS게임을 개발하고자합니다. 
-          안녕하세요 저는 인디게임 개발 지망생으로 C++과 블루프린트를 활용하여</li>프롭헌트 장르의 FPS게임을 개발하고자합니다. 
-          안녕하세요 저는 인디게임 개발 지망생으로 C++과 블루프린트를 활용하여</li>프롭헌트 장르의 FPS게임을 개발하고자합니다. 
-          안녕하세요 저는 인디게임 개발 지망생으로 C++과 블루프린트를 활용하여</li>프롭헌트 장르의 FPS게임을 개발하고자합니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 어떻게하면 더 나은 코딩을 할수있을지 고민하고 발전하는 새싹 프로그래머입니다 방문 해주셔서 감사합니다! </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
